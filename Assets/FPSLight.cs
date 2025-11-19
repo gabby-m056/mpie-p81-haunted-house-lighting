@@ -2,6 +2,9 @@ using UnityEngine;
 
 public class FPSLight : MonoBehaviour
 {
+    //public GameObject light;
+    public Light flashlight;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
